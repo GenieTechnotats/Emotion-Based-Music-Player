@@ -5,5 +5,4 @@ Pretrained Model : https://drive.google.com/file/d/1GDtwC1RAm8x8FdfPod3K05sDobT5
 
 Audio : https://drive.google.com/drive/folders/1Ki_M9s-mNQwiDC9zhiKOJj4BHm_vh9Kj?usp=sharing
 
-
-
+Project Screenshots are available under "screenshots" folder above.
